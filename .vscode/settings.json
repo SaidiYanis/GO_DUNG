@@ -1,0 +1,6 @@
+{
+  "gopls": {
+    "ui.diagnostic.staticcheck": true,
+    "ui.semanticTokens": true
+  }
+}

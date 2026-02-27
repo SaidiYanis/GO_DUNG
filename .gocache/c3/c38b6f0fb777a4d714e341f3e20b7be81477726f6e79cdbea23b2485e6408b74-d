@@ -1,0 +1,5 @@
+./crypt.go
+./functions.go
+./math.go
+./password.go
+./regexp.go

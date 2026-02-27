@@ -1,0 +1,3 @@
+./player.go
+./token_signer.go
+./player_test.go
